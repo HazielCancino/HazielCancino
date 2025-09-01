@@ -36,14 +36,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HazielCancino&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=false" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HazielCancino&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=your-username&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
 </td>
 </tr>
@@ -53,7 +53,7 @@
 <!-- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=HazielCancino&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!-- trophy (start) -->
@@ -105,5 +105,6 @@
 Credit: [Haziel_o_o_](https://github.com/HazielCancino)
 
 Last Edited on: [08/31/25]
+
 
 
