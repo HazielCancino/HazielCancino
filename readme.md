@@ -26,7 +26,7 @@
 - ☁️ I've keen interest in cloud computing, Linux system configuration, and cross-platform desktop software development.
 - 💬 Ask me about **Python, JavaScript, React, Node.js, AI deployment**.
 - 📫 Feel free to reach me out at **hazcancino@gmail.com**.
-- 🏠 Don’t hesitate to drop me a **👋** on Discord – [Kevin Haziel](https://discordapp.com/users/hazcang) my username!
+- 🏠 Don’t hesitate to drop me a **👋** on Discord – [Haziel_o_o_](https://discordapp.com/users/hazcang) my username!
 <!-- Introduction end -->
 
 <!-- stats & Trophy (start) -->
@@ -105,6 +105,7 @@
 Credit: [Haziel_o_o_](https://github.com/HazielCancino)
 
 Last Edited on: [08/31/25]
+
 
 
 
