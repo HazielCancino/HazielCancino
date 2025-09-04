@@ -8,10 +8,6 @@
   </ul>
 </div>
 
-<!-- snake image -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
 
 <!-- h2 without bottom border -->
 <div id="user-content-toc">
@@ -50,13 +46,6 @@
 </table>
 <!-- stats (end) -->
 
-<!-- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=HazielCancino&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!-- trophy (start) -->
 </p>        
 <!-- stats (end) -->
 
@@ -70,7 +59,7 @@
 <!-- tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,javascript,react,nodejs,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,figma,firebase,redis,github,html,java,linux,md,materialui,nginx,mongodb,mysql,nextjs,postman,py,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,python,javascript,react,nodejs,css,docker,figma,redis,github,html,java,linux,md,mongodb,mysql,nextjs,postman,py,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
@@ -104,7 +93,8 @@
 ----------------------------------------------------------------------
 Credit: [Haziel_o_o_](https://github.com/HazielCancino)
 
-Last Edited on: [08/31/25]
+Last Edited on: [09/03/25]
+
 
 
 
