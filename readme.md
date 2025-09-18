@@ -17,7 +17,7 @@
 - 👨‍💻 My internship involved **engineering automation solutions** with Python and SQL, and I apply that same problem-solving to all my projects.
 - 💬 Ask me about **React, Next.js, Python automation, AI deployment, or why I prefer Arch Linux**.
 - 📫 How to reach me: **hazcancino@gmail.com** | <a href="https://www.linkedin.com/in/haziel-cancino-/">LinkedIn</a>
-- ⚡ Fun fact: I built a tool that lets you query a database using just plain English.
+- ⚡ Fun fact: You can check out my personal website here! <a href="https://www.haziel.dev">Portfolio!</a>
 
 <!-- Introduction end -->
 
@@ -45,10 +45,10 @@
 <!-- horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- stats -->
 <h2 align="center">:bar_chart: Github Stats</h2>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazielcancino&theme=radical&hide_border=false" <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazielcancino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" <br/>
 
 <!-- horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -63,5 +63,6 @@
 <a href="https://github.com/HazielCancino" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/hazcang" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
+
 
 
