@@ -45,6 +45,14 @@
 <!-- horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2 align="center">:bar_chart: Github Stats</h2>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazielcancino&theme=radical&hide_border=false" <br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazielcancino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" <br/>
+
+<!-- horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Connect with me -->
 <div align="center">
   <h2>📫 Let's Connect</h2>
@@ -57,12 +65,3 @@
 </p>
 
 
-
-<!-- horizontal divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-
-
-<i>Last Updated: Sep 2025</i>
