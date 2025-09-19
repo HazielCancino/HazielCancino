@@ -48,9 +48,11 @@
 <!-- stats -->
 <h2 align="center">:bar_chart: Github Stats</h2>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazielcancino&theme=radical&hide_border=false" <br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillip-che&theme=radical&line_height=27&hide=glsl,python" alt="Haziel's Github Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazielcancino&theme=radical&hide_border=false" alt="Haziel's Github Stats" /></p>
 
 <!-- horizontal divider -->
+<p></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Connect with me -->
@@ -63,6 +65,7 @@
 <a href="https://github.com/HazielCancino" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/hazcang" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
+
 
 
 
